@@ -15,7 +15,12 @@
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
   "metaDescription": "",
-  "socialLinks": [],
+  "socialLinks": [
+    {
+      "label": "",
+      "url": "https://www.instagram.com/illustrationalofficial?stkn=MXdvdG9zcHcxM253Mw%3D%3D&utm_source=qr"
+    }
+  ],
   "supportLinks": [],
   "linksEnabled": false,
   "links": [],
