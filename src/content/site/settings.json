@@ -1,6 +1,6 @@
 {
   "siteTitle": "Rahul Bhagat",
-  "tagline": "Illustrator & Visual Artist",
+  "tagline": "",
   "logoText": "Rahul Bhagat",
   "theme": "default",
   "fontPairing": "jost-hanken-grotesk",
@@ -14,13 +14,8 @@
   "newsletterInFooter": false,
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
-  "metaDescription": "Independent illustrator specializing in vintage-inspired illustration, posters, album artwork, merchandise and visual storytelling. Available for freelance and remote illustration work.",
-  "socialLinks": [
-    {
-      "label": "",
-      "url": "https://www.instagram.com/illustrationalofficial?stkn=MXdvdG9zcHcxM253Mw%3D%3D&utm_source=qr"
-    }
-  ],
+  "metaDescription": "",
+  "socialLinks": [],
   "supportLinks": [],
   "linksEnabled": false,
   "links": [],
@@ -34,38 +29,38 @@
   "newsletterProvider": "netlify",
   "stockists": [],
   "design": {
-    "preset": "editorial",
+    "preset": "bauhaus",
     "color": {
-      "background": "#fbfaf7",
+      "background": "#f5f1e6",
       "surface": "#ffffff",
-      "text": "#23201c",
-      "muted": "#7a7468",
-      "accent": "#9bc322",
-      "accent2": "#2f6f5e",
-      "border": "#23201c",
-      "link": "#9a3b2e",
-      "heading": "#23201c"
+      "text": "#16181d",
+      "muted": "#57564f",
+      "accent": "#c39022",
+      "accent2": "#e8132b",
+      "border": "#16181d",
+      "link": "#1235d6",
+      "heading": "#16181d"
     },
     "type": {
-      "headingFont": "Fraunces",
-      "bodyFont": "Lora",
-      "headingWeight": 600,
+      "headingFont": "Jost",
+      "bodyFont": "Hanken Grotesk",
+      "headingWeight": 700,
       "bodyWeight": 400,
-      "baseSize": 18,
+      "baseSize": 17,
       "headingTransform": "none",
-      "letterSpacing": 0
+      "letterSpacing": -0.01
     },
     "shape": {
-      "radius": 0,
-      "borderWidth": 1,
-      "shadows": "none"
+      "radius": 16,
+      "borderWidth": 2,
+      "shadows": "hard"
     },
-    "density": "airy",
+    "density": "normal",
     "contentWidth": "normal",
-    "readingWidth": "spacious",
+    "readingWidth": "relaxed",
     "motion": "smooth",
     "nav": {
-      "layout": "side"
+      "layout": "top"
     },
     "home": {
       "landing": "work"
@@ -94,7 +89,7 @@
       "filters": false
     },
     "lightbox": {
-      "transition": "slide",
+      "transition": "fade",
       "zoom": false
     },
     "hero": {
@@ -110,17 +105,17 @@
       "mode": "initials"
     },
     "pages": {
-      "about": false,
+      "about": true,
       "contact": true,
-      "cv": false,
-      "press": false,
+      "cv": true,
+      "press": true,
       "exhibitions": false,
       "news": false,
       "available": false,
       "presskit": false,
-      "commissions": true,
+      "commissions": false,
       "shop": false,
-      "projects": true,
+      "projects": false,
       "stockists": false
     }
   }
