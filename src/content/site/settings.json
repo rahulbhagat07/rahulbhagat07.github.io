@@ -108,15 +108,15 @@
       "about": true,
       "contact": true,
       "cv": true,
-      "press": true,
+      "press": false,
       "exhibitions": false,
       "news": false,
       "available": false,
       "presskit": false,
       "commissions": true,
-      "shop": true,
-      "projects": false,
-      "stockists": true
+      "shop": false,
+      "projects": true,
+      "stockists": false
     }
   }
 }
