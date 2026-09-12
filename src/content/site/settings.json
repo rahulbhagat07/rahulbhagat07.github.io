@@ -1,7 +1,7 @@
 {
-  "siteTitle": "Your portfolio",
+  "siteTitle": "Rahul Bhagat",
   "tagline": "",
-  "logoText": "Your name",
+  "logoText": "Rahul Bhagat",
   "theme": "default",
   "fontPairing": "jost-hanken-grotesk",
   "portfolioLayout": "masonry",
@@ -15,5 +15,108 @@
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
   "metaDescription": "",
-  "socialLinks": []
+  "socialLinks": [],
+  "supportLinks": [],
+  "linksEnabled": false,
+  "links": [],
+  "searchEnabled": false,
+  "cvAutoExhibitions": false,
+  "commissionsMode": "form",
+  "analyticsProvider": "none",
+  "sellEnabled": false,
+  "availableForWork": false,
+  "newsletterEnabled": false,
+  "newsletterProvider": "netlify",
+  "stockists": [],
+  "design": {
+    "preset": "catalog",
+    "color": {
+      "background": "#ffffff",
+      "surface": "#ffffff",
+      "text": "#1a1a1a",
+      "muted": "#777777",
+      "accent": "#ff8648",
+      "accent2": "#1a1a1a",
+      "border": "#e2e2e2",
+      "link": "#2b4cff",
+      "heading": "#1a1a1a"
+    },
+    "type": {
+      "headingFont": "Hanken Grotesk",
+      "bodyFont": "Bebas Neue",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "baseSize": 16,
+      "headingTransform": "none",
+      "letterSpacing": -0.01
+    },
+    "shape": {
+      "radius": 2,
+      "borderWidth": 1,
+      "shadows": "none"
+    },
+    "density": "compact",
+    "contentWidth": "normal",
+    "readingWidth": "relaxed",
+    "motion": "smooth",
+    "nav": {
+      "layout": "top"
+    },
+    "home": {
+      "landing": "work"
+    },
+    "logo": {
+      "mode": "none"
+    },
+    "background": {
+      "type": "solid"
+    },
+    "thumb": {
+      "fit": "cover",
+      "hover": "none"
+    },
+    "gallery": {
+      "layout": "masonry",
+      "size": "small",
+      "gutter": "tight",
+      "caption": "below",
+      "cardStyle": "card",
+      "captionDetail": "minimal",
+      "captionOverlay": "surface",
+      "featureFirst": true,
+      "adaptiveSpans": false,
+      "click": "page",
+      "filters": true
+    },
+    "lightbox": {
+      "transition": "fade",
+      "zoom": false
+    },
+    "hero": {
+      "enabled": false,
+      "align": "left",
+      "size": "small"
+    },
+    "footer": {
+      "socials": true,
+      "credit": true
+    },
+    "favicon": {
+      "mode": "initials"
+    },
+    "pages": {
+      "about": true,
+      "contact": true,
+      "cv": true,
+      "press": true,
+      "exhibitions": false,
+      "news": false,
+      "available": false,
+      "presskit": false,
+      "commissions": true,
+      "shop": true,
+      "projects": false,
+      "stockists": true
+    }
+  }
 }
