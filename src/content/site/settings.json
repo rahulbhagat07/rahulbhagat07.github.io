@@ -15,7 +15,12 @@
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
   "metaDescription": "Independent illustrator specializing in vintage-inspired illustration, posters, album artwork, merchandise and visual storytelling. Available for freelance and remote illustration work.",
-  "socialLinks": [],
+  "socialLinks": [
+    {
+      "label": "",
+      "url": "https://www.instagram.com/illustrationalofficial?stkn=MXdvdG9zcHcxM253Mw%3D%3D&utm_source=qr"
+    }
+  ],
   "supportLinks": [],
   "linksEnabled": false,
   "links": [],
