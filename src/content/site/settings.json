@@ -29,38 +29,38 @@
   "newsletterProvider": "netlify",
   "stockists": [],
   "design": {
-    "preset": "catalog",
+    "preset": "editorial",
     "color": {
-      "background": "#ffffff",
+      "background": "#fbfaf7",
       "surface": "#ffffff",
-      "text": "#1a1a1a",
-      "muted": "#777777",
-      "accent": "#ff8648",
-      "accent2": "#1a1a1a",
-      "border": "#e2e2e2",
-      "link": "#2b4cff",
-      "heading": "#1a1a1a"
+      "text": "#23201c",
+      "muted": "#7a7468",
+      "accent": "#9bc322",
+      "accent2": "#2f6f5e",
+      "border": "#23201c",
+      "link": "#9a3b2e",
+      "heading": "#23201c"
     },
     "type": {
-      "headingFont": "Hanken Grotesk",
-      "bodyFont": "Bebas Neue",
+      "headingFont": "Fraunces",
+      "bodyFont": "Lora",
       "headingWeight": 600,
       "bodyWeight": 400,
-      "baseSize": 16,
+      "baseSize": 18,
       "headingTransform": "none",
-      "letterSpacing": -0.01
+      "letterSpacing": 0
     },
     "shape": {
-      "radius": 2,
+      "radius": 0,
       "borderWidth": 1,
       "shadows": "none"
     },
-    "density": "compact",
+    "density": "airy",
     "contentWidth": "normal",
-    "readingWidth": "relaxed",
+    "readingWidth": "spacious",
     "motion": "smooth",
     "nav": {
-      "layout": "top"
+      "layout": "side"
     },
     "home": {
       "landing": "work"
@@ -72,24 +72,24 @@
       "type": "solid"
     },
     "thumb": {
-      "fit": "cover",
-      "hover": "none"
+      "fit": "contain",
+      "hover": "zoom"
     },
     "gallery": {
       "layout": "masonry",
-      "size": "small",
-      "gutter": "tight",
+      "size": "medium",
+      "gutter": "normal",
       "caption": "below",
       "cardStyle": "card",
-      "captionDetail": "minimal",
+      "captionDetail": "full",
       "captionOverlay": "surface",
-      "featureFirst": true,
+      "featureFirst": false,
       "adaptiveSpans": false,
-      "click": "page",
-      "filters": true
+      "click": "lightbox",
+      "filters": false
     },
     "lightbox": {
-      "transition": "fade",
+      "transition": "slide",
       "zoom": false
     },
     "hero": {
@@ -108,14 +108,14 @@
       "about": true,
       "contact": true,
       "cv": true,
-      "press": false,
+      "press": true,
       "exhibitions": false,
       "news": false,
       "available": false,
       "presskit": false,
-      "commissions": true,
+      "commissions": false,
       "shop": false,
-      "projects": true,
+      "projects": false,
       "stockists": false
     }
   }
