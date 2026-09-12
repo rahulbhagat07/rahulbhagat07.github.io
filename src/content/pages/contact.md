@@ -1,5 +1,6 @@
 ---
 title: Contact
+email: Illustrationalofficial.gmail.com
 formEnabled: true
 ---
 
