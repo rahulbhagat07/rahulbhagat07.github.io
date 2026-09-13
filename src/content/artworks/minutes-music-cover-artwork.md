@@ -3,7 +3,7 @@ image: ../../assets/artworks/minutes-music-cover-artwork-ncyg06.jpeg
 title: "Minutes music cover artwork "
 year: 2026
 medium: Digital art
-status: sold
+status: nfs
 alt: Music cover artwork featuring the main artists cruising through a relaxed palm-tree-lined landscape, illustrated in a bold vintage-inspired style.
 collection: music-covers
 order: 0
